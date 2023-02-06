@@ -716,6 +716,12 @@ _H, or <FILE>_<CREATION DATE>_H
 3. However, because `pragmas` are not an official part of the C++ language (and may not be supported consistently, or at
    all on more esoteric platforms), others (such as Google) still recommend sticking with traditional header guards.
 
+## [2.13 — How to design your first programs](https://www.learncpp.com/cpp-tutorial/how-to-design-your-first-programs/)
+
+A little up-front planning will save you both time and frustration in the long run.
+
+In this lesson, we’ll lay out a generalized approach for converting ideas into simple functional programs.
+
 
 
 
