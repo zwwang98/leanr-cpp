@@ -1,0 +1,1 @@
+## [3.1 — Syntax and semantic errors](https://www.learncpp.com/cpp-tutorial/syntax-and-semantic-errors/)
