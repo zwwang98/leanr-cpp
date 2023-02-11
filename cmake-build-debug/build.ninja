@@ -58,6 +58,18 @@ build CMakeFiles/learncpp.dir/2_function/add.cpp.o: CXX_COMPILER__learncpp_Debug
   OBJECT_DIR = CMakeFiles/learncpp.dir
   OBJECT_FILE_DIR = CMakeFiles/learncpp.dir/2_function
 
+build CMakeFiles/learncpp.dir/4_fundamental_data_types/void_type_test.cpp.o: CXX_COMPILER__learncpp_Debug /Users/a9527/CLionProjects/learncpp/4_fundamental_data_types/void_type_test.cpp || cmake_object_order_depends_target_learncpp
+  DEP_FILE = CMakeFiles/learncpp.dir/4_fundamental_data_types/void_type_test.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/learncpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/learncpp.dir/4_fundamental_data_types
+
+build CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o: CXX_COMPILER__learncpp_Debug /Users/a9527/CLionProjects/learncpp/4_fundamental_data_types/main.cpp || cmake_object_order_depends_target_learncpp
+  DEP_FILE = CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/learncpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/learncpp.dir/4_fundamental_data_types
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target learncpp
@@ -66,7 +78,7 @@ build CMakeFiles/learncpp.dir/2_function/add.cpp.o: CXX_COMPILER__learncpp_Debug
 #############################################
 # Link the executable learncpp
 
-build learncpp: CXX_EXECUTABLE_LINKER__learncpp_Debug CMakeFiles/learncpp.dir/2_function/main.cpp.o CMakeFiles/learncpp.dir/2_function/add.cpp.o
+build learncpp: CXX_EXECUTABLE_LINKER__learncpp_Debug CMakeFiles/learncpp.dir/2_function/main.cpp.o CMakeFiles/learncpp.dir/2_function/add.cpp.o CMakeFiles/learncpp.dir/4_fundamental_data_types/void_type_test.cpp.o CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk
   OBJECT_DIR = CMakeFiles/learncpp.dir
   POST_BUILD = :

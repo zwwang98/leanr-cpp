@@ -1,6 +1,17 @@
 # ninja log v5
 1	85	1675393674210759405	CMakeFiles/learncpp.dir/2_function/add.cpp.o	515040e439620889
-0	58	1675800569159889454	build.ninja	5d5d5ef95b82f032
+0	58	1675996593995009687	build.ninja	5d5d5ef95b82f032
 0	270	1675393781602820515	CMakeFiles/learncpp.dir/2_function/main.cpp.o	cd310892a857841e
 270	305	1675393781638799862	learncpp	b4527d695489876c
 1	518	1674776421418206146	CMakeFiles/learncpp.dir/main.cpp.o	d92c8cc99ce6ffd6
+2	312	1675996629014101101	CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o	b1bbaca4fae28135
+2	347	1675996884421803978	CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o	b1bbaca4fae28135
+1	97	1675997353886417639	CMakeFiles/learncpp.dir/4_fundamental_data_types/void_type_test.cpp.o	fc23cd217f696b9f
+1	325	1675997389524216115	CMakeFiles/learncpp.dir/2_function/main.cpp.o	cd310892a857841e
+325	365	1675997389569034218	learncpp	b24313d2c948147b
+0	244	1675997410695952865	CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o	b1bbaca4fae28135
+244	282	1675997410735797053	learncpp	b24313d2c948147b
+1	224	1675997416302495805	CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o	b1bbaca4fae28135
+224	253	1675997416333553635	learncpp	b24313d2c948147b
+1	369	1676100762197060298	CMakeFiles/learncpp.dir/4_fundamental_data_types/main.cpp.o	b1bbaca4fae28135
+369	417	1676100762248118366	learncpp	b24313d2c948147b
